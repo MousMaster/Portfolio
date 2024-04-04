@@ -1,9 +1,12 @@
-<p align="center" Test>
-  
+<p align="center">
+  <strong>Skills & Technologies</strong>
+</p>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,jenkins,ansible,c,vim,cicd" />
   </a>
 </p>
+
 
 
 # [Your Name]'s DevOps Portfolio
