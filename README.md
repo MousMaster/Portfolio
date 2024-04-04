@@ -56,6 +56,15 @@ Feel free to reach out to discuss projects, opportunities, or collaborations.
 
 ## Languages
 ![](https://img.shields.io/badge/Scripting-Bash-green) ![](https://img.shields.io/badge/Scripting-Python-blue)
+## Skills and Tools
+![](https://img.shields.io/badge/Cloud-AWS-orange)
+![](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-blue)
+![](https://img.shields.io/badge/Container-Docker-blue)
+![](https://img.shields.io/badge/Orchestration-Kubernetes-lightblue)
+![](https://img.shields.io/badge/Language-C%2FC%2B%2B-blue)
+![](https://img.shields.io/badge/Language-Java-red)
+
+
 
 
 Thank you for visiting my DevOps Portfolio!
