@@ -18,7 +18,7 @@
 
 # DevOps & Cloud Engineering Portfolio
 
-Welcome to my professional portfolio. I am a DevOps and Cloud Engineer passionate about automating and optimizing development processes to build efficient, scalable, and reliable software solutions. Through my journey, I've gained extensive experience in containerization, orchestration, automation, and cloud infrastructure, demonstrated across a variety of projects outlined below.
+Welcome to my professional portfolio. I am a DevOps  passionate about automating and optimizing development processes to build efficient, scalable, and reliable software solutions. Through my journey, I've gained extensive experience in containerization, orchestration, automation, and cloud infrastructure, demonstrated across a variety of projects outlined below.
 
 ## Projects Overview
 
