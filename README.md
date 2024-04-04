@@ -1,5 +1,5 @@
 <p align="center">
-  <strong>Skills & Technologies</strong>
+  <strong>DevOps & Cloud</strong>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
