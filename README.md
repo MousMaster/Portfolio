@@ -5,16 +5,16 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,jenkins,ansible,terraform,aws," />
   </a>
-</p>
 
-<p align="center">
+  <p align="center">
   <strong>Langages</strong>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
+    <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,java,py,bash,linux" />
   </a>
 </p>
+
+</p>
+
 
 
 
