@@ -3,13 +3,12 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,jenkins,ansible,terraform,aws," />
+    <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,jenkins,ansible,terraform,aws" />
   </a>
-
 </p>
 
 <p align="center">
-  <strong>Langages</strong>
+  <strong>Languages</strong>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
