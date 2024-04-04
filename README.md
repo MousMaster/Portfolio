@@ -28,7 +28,7 @@ Welcome to my professional portfolio. I am a DevOps  passionate about automating
 
 **Technologies**: Docker, Kubernetes, Jenkins, Ansible, Terraform, AWS
 
-[View Project](https://lnkd.in/eSxvUbZ4)
+[View Project](https://github.com/MousMaster/ProjetFilRouge)
 
 ### 2. Kubernetes Manifests Overview
 
@@ -42,11 +42,14 @@ Welcome to my professional portfolio. I am a DevOps  passionate about automating
 
 **Technologies**: Ansible, Docker, CentOS
 
-[More about Ansible Role](https://github.com/YourGitHubUsername/ansible-role-containerized-apache)
+[More about Ansible Role](https://github.com/MousMaster/Ansible)
 
 ### 4. Terraform AWS Infrastructure Deployment
 
 **Summary**: Utilized Terraform to orchestrate a modular AWS infrastructure, including EC2, Elastic IPs, EBS, and Security Groups, demonstrating expertise in Infrastructure as Code.
+
+[More about Terraform project](https://github.com/MousMaster/Terraform)
+
 
 **Technologies**: Terraform, AWS
 
@@ -56,6 +59,9 @@ Welcome to my professional portfolio. I am a DevOps  passionate about automating
 
 **Technologies**: Jenkins, Docker, Slack
 
+[More about Terraform project](https://github.com/MousMaster/JenkinsProject)
+
+
 ## Skills & Expertise
 
 - **Cloud Platforms**: AWS
@@ -64,6 +70,8 @@ Welcome to my professional portfolio. I am a DevOps  passionate about automating
 - **Infrastructure as Code**: Terraform
 - **Programming Languages**: Bash, Python
 - **Systems Administration**: CentOS, Linux
+
+
 
 ## About Me
 
