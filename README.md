@@ -84,6 +84,6 @@ I am currently exploring opportunities to apply and expand my skills as a DevOps
 
 - **LinkedIn**: [https://www.linkedin.com/in/ahmed-damou-m/](#)
 
-Thank you for exploring my portfolio. Feel free to reach out for collaborations or opportunities.
+Thank you for exploring my portfolio. Feel free to contact me for any opportunities.
 
 
