@@ -16,75 +16,64 @@
   </a>
 </p>
 
+# DevOps & Cloud Engineering Portfolio
 
-# [Your Name]'s DevOps Portfolio
+Welcome to my professional portfolio. I am a DevOps and Cloud Engineer passionate about automating and optimizing development processes to build efficient, scalable, and reliable software solutions. Through my journey, I've gained extensive experience in containerization, orchestration, automation, and cloud infrastructure, demonstrated across a variety of projects outlined below.
 
-## Welcome!
-Hi there! I'm [Your Name], a DevOps Engineer with [X years] of experience. I specialize in [briefly describe your specialties, e.g., CI/CD, cloud infrastructure, automation]. This portfolio showcases my journey, achievements, and projects in the world of DevOps.
+## Projects Overview
 
----
+### 1. DevOps Bootcamp Final Project - EazyTraining
+
+**Summary**: Implemented a comprehensive web application deployment using Docker, Kubernetes, Jenkins, Ansible, and Terraform for cloud infrastructure management.
+
+**Technologies**: Docker, Kubernetes, Jenkins, Ansible, Terraform, AWS
+
+[View Project](https://lnkd.in/eSxvUbZ4)
+
+### 2. Kubernetes Manifests Overview
+
+**Summary**: Managed Kubernetes manifests for deploying a WordPress application and a MySQL database, showcasing deep knowledge in Kubernetes resource management.
+
+**Technologies**: Kubernetes
+
+### 3. Ansible Role: Containerized Apache
+
+**Summary**: Developed an Ansible role for deploying Apache in a Docker container on CentOS hosts, emphasizing automation practices.
+
+**Technologies**: Ansible, Docker, CentOS
+
+[More about Ansible Role](https://github.com/YourGitHubUsername/ansible-role-containerized-apache)
+
+### 4. Terraform AWS Infrastructure Deployment
+
+**Summary**: Utilized Terraform to orchestrate a modular AWS infrastructure, including EC2, Elastic IPs, EBS, and Security Groups, demonstrating expertise in Infrastructure as Code.
+
+**Technologies**: Terraform, AWS
+
+### 5. Jenkins CI/CD Pipeline for Docker Application Deployment
+
+**Summary**: Engineered a Jenkins pipeline for a Dockerized application, covering the full CI/CD lifecycle with Slack notifications for pipeline status.
+
+**Technologies**: Jenkins, Docker, Slack
+
+## Skills & Expertise
+
+- **Cloud Platforms**: AWS
+- **Containerization & Orchestration**: Docker, Kubernetes
+- **CI/CD & Automation**: Jenkins, Ansible
+- **Infrastructure as Code**: Terraform
+- **Programming Languages**: Bash, Python
+- **Systems Administration**: CentOS, Linux
 
 ## About Me
-- **Location:** [Your Location]
-- **Education:** [Your Degree], [Your University], [Year]
-- **Certifications:** [List any relevant certifications]
-- **Skills:** 
-  - Cloud Platforms: [e.g., AWS, GCP, Azure]
-  - CI/CD Tools: [e.g., Jenkins, GitLab CI, GitHub Actions]
-  - Configuration Management: [e.g., Ansible, Chef, Puppet]
-  - Containerization & Orchestration: [e.g., Docker, Kubernetes]
-  - Monitoring & Logging: [e.g., Prometheus, Grafana, ELK Stack]
-  - Scripting Languages: [e.g., Bash, Python]
 
----
+I am currently exploring opportunities to apply and expand my skills as a DevOps Engineer. With a solid foundation in DevOps practices and cloud technologies, I am eager to tackle new challenges and contribute to innovative projects.
 
-## Projects
-This section highlights some of my key projects. Each project includes a brief description, technologies used, and a link to the GitHub repository.
+## Contact
 
-### [Project Name 1]
-- **Description:** [Short project description]
-- **Technologies Used:** [e.g., AWS, Docker, Jenkins]
-- **GitHub Link:** [Link to GitHub repository]
+- **LinkedIn**: [Your LinkedIn Profile](#)
+- **GitHub**: [Your GitHub Profile](#)
 
-### [Project Name 2]
-- **Description:** [Short project description]
-- **Technologies Used:** [e.g., Kubernetes, Ansible, Terraform]
-- **GitHub Link:** [Link to GitHub repository]
+Thank you for exploring my portfolio. Feel free to reach out for collaborations or opportunities.
 
-### [More Projects...]
-- Don't forget to add more projects that showcase your skills and achievements.
-
----
-
-## Achievements
-- [List any awards, recognitions, or achievements in DevOps or related fields]
-
----
-
-## Contact Me
-Feel free to reach out to discuss projects, opportunities, or collaborations.
-- **Email:** [Your Email]
-- **LinkedIn:** [Your LinkedIn Profile]
-- **GitHub:** [Your GitHub Profile]
-
-
----
-
-## Skills and Tools
-![](https://img.shields.io/badge/Cloud-AWS-orange) ![](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-blue) ![](https://img.shields.io/badge/Container-Docker-blue)
-
-## Languages
-![](https://img.shields.io/badge/Scripting-Bash-green) ![](https://img.shields.io/badge/Scripting-Python-blue)
-## Skills and Tools
-![](https://img.shields.io/badge/Cloud-AWS-orange)
-![](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-blue)
-![](https://img.shields.io/badge/Container-Docker-blue)
-![](https://img.shields.io/badge/Orchestration-Kubernetes-lightblue)
-![](https://img.shields.io/badge/Language-C%2FC%2B%2B-blue)
-![](https://img.shields.io/badge/Language-Java-red)
-
-
-
-
-Thank you for visiting my DevOps Portfolio!
 
