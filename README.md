@@ -48,7 +48,15 @@ Feel free to reach out to discuss projects, opportunities, or collaborations.
 - **LinkedIn:** [Your LinkedIn Profile]
 - **GitHub:** [Your GitHub Profile]
 
+
 ---
+
+## Skills and Tools
+![](https://img.shields.io/badge/Cloud-AWS-orange) ![](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-blue) ![](https://img.shields.io/badge/Container-Docker-blue)
+
+## Languages
+![](https://img.shields.io/badge/Scripting-Bash-green) ![](https://img.shields.io/badge/Scripting-Python-blue)
+
 
 Thank you for visiting my DevOps Portfolio!
 
