@@ -6,16 +6,16 @@
     <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,jenkins,ansible,terraform,aws," />
   </a>
 
-  <p align="center">
+</p>
+
+<p align="center">
   <strong>Langages</strong>
-    <a href="https://skillicons.dev">
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,java,py,bash,linux" />
   </a>
 </p>
-
-</p>
-
-
 
 
 # [Your Name]'s DevOps Portfolio
