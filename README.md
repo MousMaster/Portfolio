@@ -36,6 +36,9 @@ Welcome to my professional portfolio. I am a DevOps  passionate about automating
 
 **Technologies**: Kubernetes
 
+[More about Kubernetes manifests](https://github.com/MousMaster/kubernetesProject)
+
+
 ### 3. Ansible Role: Containerized Apache
 
 **Summary**: Developed an Ansible role for deploying Apache in a Docker container on CentOS hosts, emphasizing automation practices.
@@ -48,7 +51,7 @@ Welcome to my professional portfolio. I am a DevOps  passionate about automating
 
 **Summary**: Utilized Terraform to orchestrate a modular AWS infrastructure, including EC2, Elastic IPs, EBS, and Security Groups, demonstrating expertise in Infrastructure as Code.
 
-[More about Terraform project](https://github.com/MousMaster/Terraform)
+[More about Jenkins project](https://github.com/MousMaster/Terraform)
 
 
 **Technologies**: Terraform, AWS
