@@ -1,3 +1,10 @@
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,jenkins,ansible,c,vim" />
+  </a>
+</p>
+
+
 # [Your Name]'s DevOps Portfolio
 
 ## Welcome!
